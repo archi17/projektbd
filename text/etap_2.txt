@@ -1,0 +1,206 @@
+2. Analiza Wycinka Rzeczywistości
+
+
+2.1 Sczegółowy opis wycinka rzeczywistości
+
+	Klinika oferuje swoim klientom usługi weterynaryjne. Oferta obejmuje zabiegi 
+i lecznie wszystkich gatunków zwierząt domowych. Ponadto klinika sprzedaje
+lekarstwa dla zwierząt.
+
+Kadra składa się z trzech podstawowych typów pracowników:
+- weterynarzy 
+- recepcjonistów 
+- dyrektora
+
+Podczas pierwszej wizyty w klinice recpepcjonista zakłada kartę klienta z podstawowymi danymi kontaktowymi, są to:
+- imię 
+- nazwisko 
+- numer telefonu
+- adres email (jeśli klient go posiada) 
+
+Każdemu zwierzęciu leczonemu po raz pierwszy zakładana jest karta zawierająca:
+- nazwę 
+- rasę 
+- gatunek 
+- maść 
+- datę urodzenia (jeśli jest znana)
+	
+	Podczas wizyty, w zależności od tego czy czynności weterynaryjne są
+potrzebne natychmiast klient jest kierowany do weterynarza dyżurnego lub
+umawiany na wizytę w uzgodnionym terminie. W przypadku gdy weterynarz dyżurny
+jest już zajęty, o podjęcie czynności proszony jest weterynarz
+obsługujący najmniej nagły przypadek. Po zakończeniu wizyty lekarz wystawia
+rachunek, który klient jest zoobowiązany opłacić u recepcjonisty.
+	Weterynarz podczas wstępnego wywiadu z klientem, spisuje objawy a
+następnie, na podstawie swojej wiedzy zleca wykonanie badania, planuje
+przeprowadzenie zabiegu, lub przepisuje środki lecznicze. Historia leczenia
+każdego zwierzęcia jest przechowywana w osobnym folderze. Wszystkie foldery
+zwierząt tego samego właściciela przechowywane są razem wraz z kartą klienta. 
+Karta zwierzęcia jest przechowywana przez
+trzy lata od ostatniej wizyty. Przestarzałe karty są wyrzucane raz do roku
+podczas ostaniego dnia roboczego roku kalendarzowego. Do wykonania tego
+zadania wyznaczany jest jeden z recepcjonistów.
+	Dostęp do środków leczniczych posiada weterynarz i recepcjonista. 
+Weterynarz, może zaaplikować lekarstwo samodzielnie lub poinstruować opiekuna
+zwierzęcia. Klient może wówczas kupić lekarstwo w tej samej klinice, lub
+nabyć je w inny sposób. Sprzedażą lekarstw zajmuje się recepcjonista.
+	Organizacją pracy, oraz zamawianiem potrzebnych środków leczniczych
+zajmuje się dyrektor. Zapas lekarstw uzupełniany jest co miesiąc.
+O potrzebie uzupełnienia zapasu lekarstw informowany jest ustnie
+przez weterynarzy lub recepcjonistów.
+
+2.2 Słownik Pojęć
+
+Lekarstwo - 
+	środek farmaceutyczny aplikowany zwierzęciu przez weterynarza, 
+	lub kupowany przez klienta i podawany samodzielnie
+
+Gatunek -
+	ogólny typ zwierzęcia np. pies, kot, chomik.
+
+Maść -
+	słowny opis koloru futra lub upierzenia.
+
+Historia leczenia -
+	zbiór danych powstały od pierwszej obsługi zwierzęcia w klinice.
+	Obejmuje on wyniki wykonanych badań, podane lub przepisane lekarstwa
+	wraz z dawkowaniem, a także raporty wypisane przez weterynarza	
+	z przperowadzonych zabiegów. Wszystkie te informacje opatrzone są 
+	datą wykonania, przepisania itd.
+
+Czynności weterynaryjne -
+	działania podejmowane przez weterynarza, wykonywanie badań,
+	zabiegów itp.	
+
+Karta zwierzęcia -
+	formularz wypełnianiy podczas pierwszej obsługi zwierzęcia w klinice
+	zawierający podstawowe dane.
+
+Klient - 
+	właściciel zwierzęcia zgłaszający się do kliniki
+
+Karta klienta -
+	formularz wypełniany podczas pierwszej wizyty klienta w klinice
+	zawierający podstawowe dane kontaktowe.
+
+Kadra -
+	zbiór pracowników kliniki. Pracownicy mogą być zatrudnieni w różny
+	sposób, umowa o pracę, umowa zlecenie, współpraca na zasadzie 
+	business to business
+
+Weterynarz -
+	pracownik kliniki posiadający stosowne wykształcenie weterynaryjne i
+	posiadający prawo wykonywania czynności weterynaryjnych
+
+Weterynarz Dyżurny -
+	weterynarz wyznaczony do obsługi przypadków wymagających podjęcia
+	bezzwłocznych działań
+
+Dyrektor -
+	pracownik kliniki mający prawo do zarządzania kadrą, ustalania
+	grafików oraz dokonywania zamówień środków farmaceutycznych 	
+
+Recepcjonista -
+	pracownik kliniki odpowiedzialny za kontakt z klientem
+
+Wywiad -
+	rozmowa weterynarza z klientem podczas której zbierane są wstępne
+	informacje służące diagnozie
+
+Badanie -
+	czynności wykonywane przez weterynarza celem pozyskania dodatkowych
+	informacji na temat stanu zwierzęcia	
+
+Zabieg -
+	czynności wykonywane przez weterynarza mające na celu wylecznie
+	zwierzęcia, po zabiegu weterynarz sporządza raport, w którym opisuje
+	przebieg a w szczególności informacje na temat powodzenia zabiegu.
+
+Wizyta -
+	przyjście klienta do kliniki. Może ale nie musi być wcześniej zaplanowana.	
+
+Objaw -
+	Symptom wskazujący na chorobę zwierzęcia. Objawy są spisywane przez
+	weterynarza na podstawie wywiadu i oględzin.	
+
+2.3 Użytkownicy
+
+- Dyrektor - 
+	pełniący rolę zarządzającego, jako jedyny ma prawo do zatrudniania i zwalniania pracowników,
+	odpowiada za ustalanie grafiku weterynarzy oraz recepcjonistów.
+
+- Recepcjonista -
+	jest odpowiedzialny za kontakt z klientem oraz przeprowadzenie wstępnego wywiadu przy
+	przyjmowaniu zwierzęcia do kliniki.
+
+- Weterynarz -
+	pracownik wykonujący zabiegi, podający lekarstwa. Jest odpowiedzialny także za
+	szczegółowy wywiad z klientem odnośnie zwięrzęcia, które należy poddać leczeniu.
+
+2.4 Wymagania funkcjonalne
+Recepcjonista:
+- Ewidencja klientów.
+- Planowanie wizyt.
+- Śledzenie rachunków i zrealizowanych płatności.
+
+Weterynarz:
+- Ewidencja zwierząt.
+- Obsługa historii leczenia w tym:
+	- Wykonanych badań i ich wyników
+	- Wykonanych zabiegów
+	- Zaaplikowanych lekarstw
+- Wystawianie rachunków
+
+Dyrektor:
+- Ewidencja posiadanych lekarstw.
+- Wyświetlanie statysk o wizytach klientów.
+
+2.5 Wymagania niefunkcjonalne
+	Aplikacja ma zostać zrealizowana w architekturze klient-serwer.
+Na każdym stanowisku pracy (recepcja, gabinet weterynarza, gabinet dyrektora)
+dostępny będzie komputer. Wraz z serwerem aplikacji tworzyć będą sieć lokalną.
+Serwer aplikacji pracować, będzie na systemie operacyjnym linux.
+	Dostęp do aplikacji następować będzie poprzez przeglądarkę. Ze
+względów bezpieczeństwa, dostęp z poza sieci lokalnej nie będzie możliwy.
+	Aby umożliwić efektywną pracę czas odpowiedzi na każde żądanie
+powinien być mniejszy niż 300 milisekund.
+
+2.6 Analiza istniejącej bazy danych
+	Aktualna baza danych oparta jest na papierowych dokumentach i
+formularzach. Są to:
+- Formularz danych klienta z następującymi polami
+	- imię
+	- nazwisko
+	- numer telefonu
+	- adres email
+
+- Formularz danych zwierzęcia z następującymi polami
+	- nazwa 
+	- rasa
+	- gatunek 
+	- maść 
+	- data urodzenia
+ 
+- Raport przebiegu zabiegu z następującymi polami
+	- nazwa zabiegu
+	- data wykonania
+	- przebieg
+
+- Recepta zawierająca
+	- listę leków
+	- datę wystawienia
+	- sposób podawania
+	- dawkowanie
+
+- Rachunek
+	- data wystawienia
+	- lista wykonanych usług i podanych leków wraz z cenami,
+
+- Zaplanowane wizyty zapisywane są w kaledarzu.
+
+Aktualnie zbierany zestaw danych jest wystarczający i niezbędny do
+prawidłowego funkcjonowania kliniki. Problematyczne jest natomiast
+wyszukiwanie potrzebnych danych. Dodawanie nowych danych również jest
+czasochłonne.
+
+2.7 Analiza kosztów
