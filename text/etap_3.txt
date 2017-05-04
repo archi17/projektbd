@@ -1,0 +1,87 @@
+3. Kategorie
+
+KAT/001 Klient
+Opis: Kategoria klient przechowuje informacje klienta, który już odbył wizytę
+lub chce umówić się na wizytę.
+
+Atrybuty:
+Nazwisko	- Nazwisko klienta np. Kowalski
+Imię		- Imię klienta np. Jan
+Numer telefonu	- Numer telefonu klienta np. +48 723 500 123
+Adres email	- Adres email klienta np. jan.kowalski@mail.com
+
+KAT/002 Zwierzę
+Opis: Kategoria zwierzę przechowuje informacje na temat zwierzęcia, które było
+leczone w klinice w ciągu ostatnich 3 lat lub będzie wkrótce leczone.
+
+Atrybuty:
+Nazwa		- Nazwa jaką nadał swojemu pupilowi właściciel. np. Fafik
+Gatunek		- Gatunek zwierzęcia np. pies, kot, chomik
+Rasa		- Rasa zwierzęcia np. owczrek niemiecki, husky, york 
+Maść		- Słowny opis futra, lub upierzenia zwierzęcia np. śniade,
+wilczaste, rude
+
+Data Urodzenia	- Data urodzenia zwierzęcia np 23.05.2014
+
+KAT/003 Wizyta
+Opis: Kategoria Wizyta przechowuje informacje na temat odbytych i
+zaplanowanych przez klienta wizyt ze zwierzęciem.
+
+Atrybuty:
+Data		- Dzień, w którym wizyta się odbyła, lub na który jest
+zaplanowana.
+Godzina		- Godzina, o której wizyta się rozpoczęła, lub na którą
+została zaplanowana.
+
+KAT/004	Pracownik
+Opis: Katgeoria Pracownik przechowuje informacje na temat pracownika kliniki.
+Każdy pracownik jest również użytkownikiem systemu.
+
+Atrybuty:
+Nazwisko		- Nazwisko pracownika	
+Imię			- Imię pracownika
+Stanowisko		- Rola do pełnienia, której został zatrudniony
+pracownik, przyjmuje jedną z wartości "DYREKTO", "WETERYNARZ" lub
+"RECEPCJONISTA"
+Wynagrodzenie		- Stawka godzinowa brutto w złotówkach, np. 35,00 zł
+
+KAT/005 Lek
+Opis: Kategoria Lek przechowuje informacje na temat leku posiadanego w
+magazynie.
+
+Atrybuty:
+Nazwa			- Oficjalna nazwa leku nadana przez producenta.
+Rozmiar			- Rozmiar opakowania wyrażony w ilości kapsułek (dla
+tabletek) lub mililitrów (dla płynów).
+Ilość			- Ilość posiadanych w magazynie opakowań danego leku.
+
+KAT/006 Badanie
+Opis: Kategoria Badanie opisuje wynik przeprowadzonego przez weterynarza
+badania. Badanie zawsze odnosi się do dokładnie jednego zwierzęcia.
+
+Nazwa			- Nazwa badania
+Jednostka		- Jednostka w jakiej wyrażony jest wynik badania np.
+mg/ml (miligram na mililitr)
+Wynik			- Liczbowy wynik badania np 30.
+Data			- Data przeprowadzenia badania.
+
+KAT/007 Zabieg
+Opis: Kategoria Zabieg opisuje przeprowadzony przez weterynarza zabieg. Zawsze
+odnosi się do dokładnie jednego zwierzęcia.
+
+Atrybuty:
+Nazwa			- Nazwa zabiegu
+Data wykonania		- Data wykonania zabiegu
+Opis			- Słowne podsumowanie przebiegu zabiegu. W
+szczególności zawierający informację na temat powodzenia.
+
+KAT/008	Rachunek
+Opis: Kategoria Rachunek opisuje rachunek wystawiony klientowi po wizycie.
+Rachunek wystawiany jest przez weterynarza i może zostać uzupełniony przez
+recepcjonistę. Odzwierciedla on wszelkie usługi
+wykonane przez klinikę (badania, zabiegi, sprzedane lekarstwa, itp.) 
+
+Atrybuty:
+Data wystawienia	- Dzień, w którym rachunek został wystawiony.
+Data opłacenia		- Dzień, w którym rachunek został opłacony.
+Suma			- Łączna kwota do zapłaty wraz z podatkiem vat.
