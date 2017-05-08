@@ -2,7 +2,6 @@ Temat:
 
 Klinika Weterynaryjna
 
-
 Cel:
 
 Celem projektu jest usprawnienie działania, a także redukcja kosztów kliniki
@@ -12,26 +11,20 @@ poświęcanego na przetwarzanie i archiwizację dokumentów niezbędnych do funk
 organizacji, a także umożliwienie osobom zarządzającym podejmowanie decyzji na podstawie
 aktualnych, łatwo dostępnych informacji na temat zarządzanego podmiotu.
 
-
 Zakres:
 
-- Obłsuga klientów
-- Obłsuga karty zwierzęcia tj.
+- Obsługa klientów
+- Obsługa karty zwierzęcia tj.
 	- historii chorób,
 	- wykonanych badań
 	- wykonanych zabiegów
 	- podanych środków leczniczych
-- Obsługa grafiku weterynarzy
-- Obłsuga pracowników
-- Obsługa zasobów kliniki tj.
-	- środków niezbędnych do wykonywania zabiegów
-
+- Obsługa pracowników
+- Obsługa magazynu lekarstw 
+- Obsługa rachunków
 
 Użytkownicy bazy danych:
 
 - Dyrektor
 - Weterynarz
 - Recepcjonista
-- Klient
-
-

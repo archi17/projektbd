@@ -3,9 +3,8 @@
 
 2.1 Sczegółowy opis wycinka rzeczywistości
 
-	Klinika oferuje swoim klientom usługi weterynaryjne. Oferta obejmuje zabiegi 
-i lecznie wszystkich gatunków zwierząt domowych. Ponadto klinika sprzedaje
-lekarstwa dla zwierząt.
+	Klinika oferuje swoim klientom usługi weterynaryjne. Oferta obejmuje 
+lecznie zwierząt domowych i sprzedaż lekarstw.
 
 Kadra składa się z trzech podstawowych typów pracowników:
 - weterynarzy 
@@ -62,8 +61,7 @@ Maść -
 	słowny opis koloru futra lub upierzenia.
 
 Historia leczenia -
-	zbiór danych powstały od pierwszej obsługi zwierzęcia w klinice.
-	Obejmuje on wyniki wykonanych badań, podane lub przepisane lekarstwa
+	Obejmuje wyniki wykonanych badań, podane lub przepisane lekarstwa
 	wraz z dawkowaniem, a także raporty wypisane przez weterynarza	
 	z przperowadzonych zabiegów. Wszystkie te informacje opatrzone są 
 	datą wykonania, przepisania itd.

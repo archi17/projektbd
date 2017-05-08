@@ -41,7 +41,7 @@ Atrybuty:
 Nazwisko		- Nazwisko pracownika	
 Imię			- Imię pracownika
 Stanowisko		- Rola do pełnienia, której został zatrudniony
-pracownik, przyjmuje jedną z wartości "DYREKTO", "WETERYNARZ" lub
+pracownik, przyjmuje jedną z wartości "DYREKTOR", "WETERYNARZ" lub
 "RECEPCJONISTA"
 Wynagrodzenie		- Stawka godzinowa brutto w złotówkach, np. 35,00 zł
 

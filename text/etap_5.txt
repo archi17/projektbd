@@ -1,0 +1,19 @@
+5. Ograniczenia dziedzinowe
+
+OGR/001 Numer telefonu jest ciągiem 9 cyfr.
+OGR/002 Wszystkie daty w systemie są postaci DD.MM.RRRR
+OGR/003	Adres email musi być poprawny, w rozumieniu standardów  RFC 5322 i RFC 5321.
+OGR/004 Nazwisko jest niepustym ciągiem liter i myślników. Zaczyna się i kończy literą.
+OGR/005	Imię jest niepustym ciągiem liter.
+OGR/006 Nazwa zwierzęcia jest niepustym ciągiem liter.
+OGR/007 Godzina wizyty jest postaci HH:MM i mieści się w godzinach pracy kliniki tj. od 08:00 do 16:00.
+OGR/008 Data urodzenia zwierzęcia jest wcześniejsza bądź równa dacie systemowej.
+OGR/009 Data wizyty jest nie wcześniejsza niż data sytemowa.
+OGR/010 Stawka godzinowa jest liczbą nieujemną rzeczywistą z dwoma cyframi po przecinku.
+OGR/011 Ilość posiadanych w magazynie opakowań danego leku jest liczbą nieujemną.
+OGR/012 Data wystawienia rachunku jest nie wcześniejsza niż data wizyty, której dotyczy.
+OGR/013 Data opłacenia rachunku jest nie wcześniejsza niż data jego wystawienia.
+OGR/014 Dane zwierzęcia są przechowywane przez 3 lata od ostatniej obsługi w
+klinice.
+OGR/015 Dane klienta są przechowywane przez 5 lat od ostatniej wizyty w
+klinice.
