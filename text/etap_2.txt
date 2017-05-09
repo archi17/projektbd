@@ -1,4 +1,4 @@
-2. Analiza Wycinka Rzeczywistości
+﻿2. Analiza Wycinka Rzeczywistości
 
 
 2.1 Sczegółowy opis wycinka rzeczywistości
@@ -163,8 +163,8 @@ względów bezpieczeństwa, dostęp z poza sieci lokalnej nie będzie możliwy.
 	Aby umożliwić efektywną pracę czas odpowiedzi na każde żądanie
 powinien być mniejszy niż 300 milisekund.
 
-2.6 Analiza istniejącej bazy danych
-	Aktualna baza danych oparta jest na papierowych dokumentach i
+2.6 Analiza istniejących rozwiązań
+	Aktualny system przechowywania informacji jest oparty na papierowych dokumentach i
 formularzach. Są to:
 - Formularz danych klienta z następującymi polami
 	- imię
@@ -202,3 +202,11 @@ wyszukiwanie potrzebnych danych. Dodawanie nowych danych również jest
 czasochłonne.
 
 2.7 Analiza kosztów
+
+W klinice zostanie umieszczony jeden główny serwer przechowujący zasoby bazy danych,
+do którego odwoływać się będą umieszczone w gabinetach komputery wszystkich pracowników.
+Do kosztów postawienia systemu wliczamy:
+	- kupno serwera: 4000 zł
+	- zakup komputerów do gabinetów weterynarzy oraz recepcji: 4 x 1000 zł
+	- założenie sieci komputerowej: 1000 zł
+	- przeszkolenie pracowników przez informatyków: 400zł za każdego pracownika
