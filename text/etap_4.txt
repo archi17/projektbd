@@ -1,0 +1,30 @@
+4. Regu³y funkcjonowania
+
+REG/001 Klient mo¿e leczyæ wiele zwierz¹t
+REG/002 Przed skorzystaniem z us³ug klientowi musi zostaæ za³o¿ona karta klienta
+REG/003 Klient musi podaæ wszystkie dane niezbêdne do karty klienta aby skorzystaæ z us³ug kliniki poza adresem e-mail
+REG/004 W przypadku nieposiadania adresu e-mail nie wprowadza siê ¿adnych danych o nim
+REG/005 Ka¿da wizyta dotyczy wy³acznie jednego lekarza, klienta i zwierzêcia
+REG/006 Ka¿dy zabieg i badanie dotyczy wy³acznie jednego klienta i zwierzêcia
+REG/007 Ka¿da wizyta jest finalizowana rachunkiem dotycz¹cym jednego klienta i jednego zwierzêcia wystawianym przez recepcjonistê
+REG/008 Rachunek jest wystawiany wy³¹cznie na dane klienta
+REG/009 Ka¿da wizyta musi zostaæ umówiona na recepcji, nawet nag³a
+REG/010 Po wizycie klienta w klinice mo¿e on skorzystaæ z jej us³ug w przysz³oœci
+
+REG/011 Podczas wizyty mog¹ zostaæ zlecone przez lekarza dowolne iloœci badañ, zabiegów oraz leków
+REG/012 Ka¿da wizyta, badanie, oraz zabieg zostaj¹ odnotowane w historii chorób zwierzêcia umieszczonej w karcie pacjenta
+REG/013 Po trzech latach od ostatniej wizyty zwierzêcia historia chorób zostaje usuniêta
+
+REG/014 Dane dot. klienta umieszczane w karcie klienta wprowadza recepcjonista
+REG/015 Dane dot. historii przebiegu chorób wprowadza recepcjonista po otrzymaniu informacji od weterynarza
+REG/016 Dane dot. stawek godzinowych wprowadza dyrektor
+REG/017 Dane dot. godzin pracy wprowadza recepcjonista
+
+REG/018 Istnieje tylko jeden pracownik o stanowisku dyrektora
+REG/019 Mo¿e istnieæ wiele pracowników o stanowisku weterynarza oraz wiele o stanowisku recepcjonisty
+REG/020 Jeden pracownik mo¿e mieæ wy³¹cznie jedno stanowisko
+REG/021 Ka¿dy pracownik ma ustalon¹ indywidualn¹ stawkê godzinow¹
+REG/022 Weterynarz mo¿e przyjmowaæ wizyty klientów wy³¹cznie w godzinach swojej pracy
+REG/023 Wizyty mog¹ byæ umawiane wy³¹cznie na godziny pracy kliniki
+
+
