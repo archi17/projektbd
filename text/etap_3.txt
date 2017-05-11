@@ -1,10 +1,11 @@
-3. Kategorie
+﻿3. Kategorie
 
 KAT/001 Klient
 Opis: Kategoria klient przechowuje informacje klienta, który już odbył wizytę
 lub chce umówić się na wizytę.
 
 Atrybuty:
+IdKlienta	- Unikalny identyfikator klienta w bazie
 Nazwisko	- Nazwisko klienta np. Kowalski
 Imię		- Imię klienta np. Jan
 Numer telefonu	- Numer telefonu klienta np. +48 723 500 123
@@ -15,17 +16,17 @@ Opis: Kategoria zwierzę przechowuje informacje na temat zwierzęcia, które by�
 leczone w klinice w ciągu ostatnich 3 lat lub będzie wkrótce leczone.
 
 Atrybuty:
+IdZwierz	- Unikalny identyfikator zwierzęcia w bazie
 Nazwa		- Nazwa jaką nadał swojemu pupilowi właściciel. np. Fafik
 Gatunek		- Gatunek zwierzęcia np. pies, kot, chomik
 Rasa		- Rasa zwierzęcia np. owczrek niemiecki, husky, york 
 Maść		- Słowny opis futra, lub upierzenia zwierzęcia np. śniade,
-wilczaste, rude
-
+		wilczaste, rude
 Data Urodzenia	- Data urodzenia zwierzęcia np 23.05.2014
 
 KAT/003 Wizyta
 Opis: Kategoria Wizyta przechowuje informacje na temat odbytych i
-zaplanowanych przez klienta wizyt ze zwierzęciem.
+zaplanowanych dla lekarza wizyt klienta ze zwierzęciem.
 
 Atrybuty:
 Data		- Dzień, w którym wizyta się odbyła, lub na który jest
@@ -38,6 +39,8 @@ Opis: Katgeoria Pracownik przechowuje informacje na temat pracownika kliniki.
 Każdy pracownik jest również użytkownikiem systemu.
 
 Atrybuty:
+IdPrac			- Unikalny identyfikator pracownika
+Hasło			- Prywatne hasło pracownika używane do logowania
 Nazwisko		- Nazwisko pracownika	
 Imię			- Imię pracownika
 Stanowisko		- Rola do pełnienia, której został zatrudniony
