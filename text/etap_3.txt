@@ -85,6 +85,7 @@ recepcjonistę. Odzwierciedla on wszelkie usługi
 wykonane przez klinikę (badania, zabiegi, sprzedane lekarstwa, itp.) 
 
 Atrybuty:
+IdRachunku		- Identyfikator rachunku
 Data wystawienia	- Dzień, w którym rachunek został wystawiony.
 Data opłacenia		- Dzień, w którym rachunek został opłacony.
 Suma			- Łączna kwota do zapłaty wraz z podatkiem vat.
