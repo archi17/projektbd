@@ -33,6 +33,7 @@ Data		- Dzień, w którym wizyta się odbyła, lub na który jest
 zaplanowana.
 Godzina		- Godzina, o której wizyta się rozpoczęła, lub na którą
 została zaplanowana.
+IdWizyty	- identyfikator wizyty
 
 KAT/004	Pracownik
 Opis: Katgeoria Pracownik przechowuje informacje na temat pracownika kliniki.
@@ -67,6 +68,7 @@ Jednostka		- Jednostka w jakiej wyrażony jest wynik badania np.
 mg/ml (miligram na mililitr)
 Wynik			- Liczbowy wynik badania np 30.
 Data			- Data przeprowadzenia badania.
+IdBadania - 		- identyfikator badania
 
 KAT/007 Zabieg
 Opis: Kategoria Zabieg opisuje przeprowadzony przez weterynarza zabieg. Zawsze
@@ -77,6 +79,7 @@ Nazwa			- Nazwa zabiegu
 Data wykonania		- Data wykonania zabiegu
 Opis			- Słowne podsumowanie przebiegu zabiegu. W
 szczególności zawierający informację na temat powodzenia.
+IdZabiegu 		- identyfikator zabiegu
 
 KAT/008	Rachunek
 Opis: Kategoria Rachunek opisuje rachunek wystawiony klientowi po wizycie.
