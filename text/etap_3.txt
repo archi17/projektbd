@@ -30,9 +30,8 @@ zaplanowanych dla lekarza wizyt klienta ze zwierzęciem.
 
 Atrybuty:
 Data		- Dzień, w którym wizyta się odbyła, lub na który jest
-zaplanowana.
-Godzina		- Godzina, o której wizyta się rozpoczęła, lub na którą
-została zaplanowana.
+zaplanowana
+Godzina Wizyty 	- godzina, na którą wizyta została zaplanowana
 IdWizyty	- identyfikator wizyty
 
 KAT/004	Pracownik
@@ -64,10 +63,7 @@ Opis: Kategoria Badanie opisuje wynik przeprowadzonego przez weterynarza
 badania. Badanie zawsze odnosi się do dokładnie jednego zwierzęcia.
 
 Nazwa			- Nazwa badania
-Jednostka		- Jednostka w jakiej wyrażony jest wynik badania np.
-mg/ml (miligram na mililitr)
-Wynik			- Liczbowy wynik badania np 30.
-Data			- Data przeprowadzenia badania.
+Wynik			- słowny opis wyniku badania (np. podanie wartości liczbowej)
 IdBadania - 		- identyfikator badania
 
 KAT/007 Zabieg
@@ -76,7 +72,6 @@ odnosi się do dokładnie jednego zwierzęcia.
 
 Atrybuty:
 Nazwa			- Nazwa zabiegu
-Data wykonania		- Data wykonania zabiegu
 Opis			- Słowne podsumowanie przebiegu zabiegu. W
 szczególności zawierający informację na temat powodzenia.
 IdZabiegu 		- identyfikator zabiegu
