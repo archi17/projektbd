@@ -1,4 +1,4 @@
-Temat:
+﻿Temat:
 
 Klinika Weterynaryjna
 
@@ -16,11 +16,9 @@ Zakres:
 - Obsługa klientów
 - Obsługa karty zwierzęcia tj.
 	- historii chorób,
-	- wykonanych badań
-	- wykonanych zabiegów
+	- wykonanych zabiegów i badań
 	- podanych środków leczniczych
 - Obsługa pracowników
-- Obsługa magazynu lekarstw 
 - Obsługa rachunków
 
 Użytkownicy bazy danych:
