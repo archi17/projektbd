@@ -1,0 +1,4 @@
+- (dodac numer telefonu pracownika na wszystkich etapach - brakuje takiego atrybutu)
+- zastanowic sie co z lekami i do czego je przylaczyc w diagramie - proponuje do encji Zabieg
+- co z godzinami pracy i godzinami wizyt i lekami?? albo dodac wszedzie albo pousuwac wszedzie
+- atrybur "Maœæ" - po co go trzymaæ? mo¿e wywaliæ?

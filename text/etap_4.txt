@@ -5,13 +5,13 @@ REG/002 Przed skorzystaniem z us³ug klientowi musi zostaæ za³o¿ona karta klienta
 REG/003 Klient musi podaæ wszystkie dane niezbêdne do karty klienta aby skorzystaæ z us³ug kliniki poza adresem e-mail
 REG/004 W przypadku nieposiadania adresu e-mail nie wprowadza siê ¿adnych danych o nim
 REG/005 Ka¿da wizyta dotyczy wy³acznie jednego lekarza, klienta i zwierzêcia
-REG/006 Ka¿dy zabieg i badanie dotyczy wy³acznie jednego klienta i zwierzêcia
+REG/006 Ka¿dy zabieg dotyczy wy³acznie jednego klienta i zwierzêcia
 REG/007 Ka¿da wizyta jest finalizowana rachunkiem dotycz¹cym jednego klienta i jednego zwierzêcia wystawianym przez recepcjonistê
 REG/008 Rachunek jest wystawiany wy³¹cznie na dane klienta
 REG/009 Ka¿da wizyta musi zostaæ umówiona na recepcji, nawet nag³a
 REG/010 Po wizycie klienta w klinice mo¿e on skorzystaæ z jej us³ug w przysz³oœci
 
-REG/011 Podczas wizyty mog¹ zostaæ zlecone przez lekarza dowolne iloœci badañ, zabiegów oraz leków
+REG/011 Podczas wizyty mog¹ zostaæ zlecone przez lekarza dowolne iloœci zabiegów oraz leków
 REG/012 Ka¿da wizyta, badanie, oraz zabieg zostaj¹ odnotowane w historii chorób zwierzêcia umieszczonej w karcie pacjenta
 REG/013 Po trzech latach od ostatniej wizyty zwierzêcia historia chorób zostaje usuniêta
 
